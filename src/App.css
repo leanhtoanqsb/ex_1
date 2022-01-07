@@ -1,0 +1,16 @@
+.App {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App__content {
+  width: 1000px;
+  height: 700px;
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

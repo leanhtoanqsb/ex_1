@@ -1,0 +1,23 @@
+.main_banner_wrap {
+}
+.main_banner_inner {
+  position: relative;
+}
+.main_banner_big {
+  position: relative;
+  width: 900px;
+  height: 492px;
+}
+.banner_big_inner {
+  position: absolute;
+  left: 0px;
+  opacity: 0;
+  display: block;
+  transition: opacity 2s;
+}
+
+.main_banner_paging {
+  position: absolute;
+  bottom: -50px;
+  line-height: 18px;
+}
